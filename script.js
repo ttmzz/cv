@@ -24,7 +24,7 @@ const quizData = [
         correct: "a",
     },
     {
-        question: "Qual o valor der PI?",
+        question: "Qual o valor de PI?",
         a: "3,142",
         b: "3,141",
         c: "1,777",
